@@ -7,6 +7,7 @@
       <pose>1 1 1 0 0 0</pose>
     </include>
 ```
+>[!NOTE]
 > Позицию Кубика можно изменить в теге \<pose\>x y z roll pith yaw\</pose\> и покрутить его тут же
 
 3. В файле ~/catkin_ws/src/clover/clover_simulation/launch/simulator.launch поменяйте систему визуального позиционирования на LPE
